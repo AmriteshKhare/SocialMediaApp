@@ -36,7 +36,3 @@ Then run the following commands to run your app:
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
 **Client**: Flutter, Provider
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
