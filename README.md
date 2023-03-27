@@ -15,7 +15,7 @@ As per the requirements of the coding challenge.A social media platform that all
 - Sign Out
 
 ## APK
-[Click Here](https://shorturl.at/wDFL4) 
+[Click Here](https://shorturl.at/ikoO0) 
 
 
 ## Installation
