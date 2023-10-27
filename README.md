@@ -15,7 +15,7 @@ As per the requirements of the coding challenge.A social media platform that all
 - Sign Out
 
 ## APK
-[Click Here](https://shorturl.at/ikoO0) 
+[Click Here](https://drive.google.com/file/d/1t_sEpI2ODxXZRys8vA3km3dDSAJvsq32/view?usp=drive_link) 
 
 
 ## Installation
